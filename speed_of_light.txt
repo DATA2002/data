@@ -1,4 +1,4 @@
-speed_of_light
+Speed_of_Light
 28
 22
 36
