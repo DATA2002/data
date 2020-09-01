@@ -4,15 +4,12 @@ Data sets for use with DATA2002
 
 ### Cereal data
 
-Datafile Name: Cereals
-Datafile Subjects: Food , Health
-Story Names: Healthy Breakfast
-Reference: Data available at many grocery stores
-Authorization: free use
-Description: Data on several variable of different brands of cereal.
+Data on several variable of different brands of cereal.
 
 A value of -1 for nutrients indicates a missing observation.
+
 Number of cases: 77
+
 Variable Names:
 
   1. Name: Name of cereal
